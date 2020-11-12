@@ -1,0 +1,6 @@
+#A list of tools, the sources, and a small writeup on how it can be beneficial. 
+
+## Tool: DotDotPwn
+## Source: https://github.com/wireghoul/dotdotpwn
+### Description: This tool is a directory traversal fuzzer (Auto)
+Not sure if it is allowed on the OSCP but will update here once I have an answer. 
