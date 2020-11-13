@@ -1,0 +1,11 @@
+This will be a list of terms I just learned about and a description and source to call back on in regards to the subject. 
+
+
+Term: IDOR
+Discription: A type of access control vulnerability that arises when an application uses user-supplied input to access objects directly.
+Source: https://portswigger.net/web-security/access-control/idor
+Take: I learned about this 11/13/2020 from a tweet and got interested in the meaning and usage. 
+
+
+
+
